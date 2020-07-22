@@ -1,0 +1,9 @@
+bananas
+12.99
+2
+memes
+20.01
+3
+apples
+10.21
+4
