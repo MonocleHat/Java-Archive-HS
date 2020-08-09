@@ -1,0 +1,4 @@
+Author: Brandyn "MonocleHat"
+Original date: 2017/01/11
+Used to teach inheritance and polymorphism, basic concepts that i revisited
+in my c++ courses years later.
